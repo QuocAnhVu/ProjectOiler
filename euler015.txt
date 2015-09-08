@@ -1,0 +1,10 @@
+Every path MUST have 20 rights and 20 downs
+You can mark every corner by amount of decisions possible that could have left to that point
+This turns the square into Pascal's triangle
+Research: Every node can be expressed as a binomial (n choose k)
+
+(40)
+(20)
+
+Made me realize that you can also arrange decisions on a line
+Basically yes or no decisions (left or right)
